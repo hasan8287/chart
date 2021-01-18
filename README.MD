@@ -1,6 +1,6 @@
-# WEB SOCKET
+# CHART
 
-## REQURED
+## REQUIRED
 
 - node v 12
 
